@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hc-test\n"
+"POT-Creation-Date: 2016-01-17 21:00+0800\n"
+"PO-Revision-Date: 2016-01-17 21:00+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../js\n"
+
+#: ../hc-test.php:83
+msgid "color"
+msgstr "字体颜色"
+
+#: ../hc-test.php:92
+msgid "size"
+msgstr "字体大小"
+
+#: ../hc-test.php:101
+msgid "bold"
+msgstr "字体加粗"
+
+#: ../hc-test.php:111
+msgid "set bold"
+msgstr "加粗"
